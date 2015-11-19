@@ -1,0 +1,21 @@
+
+Для начала:
+
+1. Основная книжка будет вот эта http://vk.com/doc123943654_437016095
+2. Скачать и установить jdk 1.7 вот отсюда http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+Скорее всего потребуется регистрации. Ну и учитываю винду (32 или 64)
+3. Скачать и установить eclipse https://eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/1/eclipse-jee-mars-1-win32-x86_64.zip
+4. И сразу, чтоб все было по красоте качай и устанавливай сначала Git https://git-scm.com/ потом SourceTree https://www.sourcetreeapp.com/ (SourceTree ставь на английском языке!)
+5. После установки SourceTree заходишь в Tools -> Options -> General -> вводишь Full name и email
+6. Также надо будет зарегаться вот здесь https://github.com/ 
+7. После того, как все это сделал в SourceTree нажимаешь Clone/New -> Source Path/URL=https://github.com/pmoskalev/tasks.git; Destination Path=C:\tasks
+
+Задание 1.
+
+Сразу скажу, для его выполнения надо будет почитать как минимум первые 3 главы из книжки.
+
+Сделать абстрактный класс движущихся средств с асбстрактным методом ехать.
+Создать несколько его наследников, определяющих  этот метод. Создать интерфейс «пассажирский»(получить кол-во пассажиров). 
+Создать список, случайно заполняющийся объектами этих классов. Поссчитать количество пассажиров, которое можно перевезти с помощью этих объектов.
+
+
