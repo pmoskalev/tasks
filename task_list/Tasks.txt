@@ -8,7 +8,7 @@
 4. И сразу, чтоб все было по красоте качай и устанавливай сначала Git https://git-scm.com/ потом SourceTree https://www.sourcetreeapp.com/ (SourceTree ставь на английском языке!)
 5. После установки SourceTree заходишь в Tools -> Options -> General -> вводишь Full name и email
 6. Также надо будет зарегаться вот здесь https://github.com/ 
-7. После того, как все это сделал в SourceTree нажимаешь Clone/New -> Source Path/URL=https://github.com/pmoskalev/tasks.git; Destination Path=C:\tasks
+7. После того, как все это сделал в SourceTree нажимаешь Clone/New -> Source Path/URL=https://github.com/pmoskalev/tasks.git ; Destination Path=C:\tasks ; Advanced Options -> Checkout branch=develop
 
 Задание 1.
 
