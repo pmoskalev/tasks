@@ -9,6 +9,10 @@
 5. После установки SourceTree заходишь в Tools -> Options -> General -> вводишь Full name и email
 6. Также надо будет зарегаться вот здесь https://github.com/ 
 7. После того, как все это сделал в SourceTree нажимаешь Clone/New -> Source Path/URL=https://github.com/pmoskalev/tasks.git ; Destination Path=C:\tasks ; Advanced Options -> Checkout branch=develop
+8. Как что делать в eclipse - http://help.eclipse.org/mars/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2FgettingStarted%2Fqs-3.htm . В качестве папки для workspace выбирай C:\tasks
+И там же создавай проекты. Пример - C:\tasks\Task1
+
+Если есть вопросы, пиши, не стесняйся)
 
 Задание 1.
 
