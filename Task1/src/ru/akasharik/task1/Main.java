@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Heloo gays and bitches!!");
+		System.out.println("Heloo fucked gays and bitches!!");
 	}
 
 }
